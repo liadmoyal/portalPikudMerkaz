@@ -1,0 +1,24 @@
+{
+    "sidebarItems": [
+        {
+            "name": "הנחיות",
+            "url": "https://www.oref.org.il/heb"
+        },
+        {
+            "name": "הסברה",
+            "url": "https://www.example.com"
+        },
+        {
+            "name": "מכללה",
+            "url": "https://inri.orc.org.il/"
+        },
+        {
+            "name": "ספריה",
+            "url": "https://www.example.com"
+        },
+        {
+            "name": "קישוריות לשוע\"ל אזרחי",
+            "url": "https://shual.org.il/FoxClientv3/authentication"
+        }
+    ]
+}

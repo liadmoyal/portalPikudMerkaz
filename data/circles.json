@@ -1,0 +1,89 @@
+{
+    "circles": [
+      {
+        "name": "אורנית",
+        "image": "images/oranit.png"
+      },
+      {
+        "name": "אלפי משנה",
+        "image": "images/alfi.png"
+      },
+      {
+        "name": "אלקנה",
+        "image": "images/elkana.png"
+      },
+      {
+        "name": "אריאל",
+        "image": "images/ariel.png"
+      },
+      {
+        "name": "קדומים",
+        "image": "images/kdumim.png"
+      },
+      {
+        "name": "קרני שומרון",
+        "image": "images/karneiS.png"
+      },
+      {
+        "name": "עמנואל",
+        "image": "images/ima.png"
+      },
+      {
+        "name": "שער שומרון",
+        "image": "images/shomron.png"
+      },
+      {
+        "name": "שומרון",
+        "image": "images/moazaShomrun.png"
+      },
+      {
+        "name": "בית אל",
+        "image": "images/beitel.png"
+      },
+      {
+        "name": "בית אריה",
+        "image": "images/beitaria.png"
+      },
+      {
+        "name": "בקעת הירדן",
+        "image": "images/bikathayarden.png"
+      },
+      {
+        "name": "מגילות ים המלח",
+        "image": "images/megilotYam.png"
+      },
+      {
+        "name": "מודיעין עילית",
+        "image": "images/modin.png"
+      },
+      {
+        "name": "מטה בנימין",
+        "image": "images/mate_binyamin.png"
+      },
+      {
+        "name": "מעלה אפרים",
+        "image": "images/maaleEfraim.png"
+      },
+      {
+        "name": "אפרת",
+        "image": "images/efrat.png"
+      },
+      {
+        "name": "ביתר עילית",
+        "image": "images/beitar.png"
+      },
+      {
+        "name": "גוש עציון",
+        "image": "images/gushEtsion.png"
+      },
+      {
+        "name": "הר חברון",
+        "image": "images/harHevron.png"
+      },
+      {
+        "name": "קרית ארבע",
+        "image": "images/kiryatarba.png"
+      }
+    ]
+  }
+  
